@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.i("ly","develop commit 1");
         Log.i("ly","develop work finish");
+        Log.i("ly","bug fixed");
     }
 }
