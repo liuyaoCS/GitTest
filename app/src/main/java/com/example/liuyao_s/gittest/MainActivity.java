@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i("ly","develop commit 1");
         Log.i("ly","develop work finish");
         Log.i("ly","bug fixed");
+        Log.i("ly","bug fixed!!");
     }
 }
