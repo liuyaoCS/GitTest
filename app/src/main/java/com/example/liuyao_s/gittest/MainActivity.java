@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("ly","develop commit 1");
+        Log.i("ly","develop work finish");
     }
 }
