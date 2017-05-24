@@ -5,4 +5,5 @@ package com.example.liuyao_s.gittest;
  */
 
 public class MasterTest {
+    int i;
 }
