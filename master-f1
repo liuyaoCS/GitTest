@@ -5,6 +5,7 @@ git bash add llliuyao-2
 
 test1
 test2
+<<<<<<< HEAD
 
 test3 amazing
 
@@ -13,3 +14,6 @@ ttt
 
 liuyao-s
 
+=======
+test3
+>>>>>>> f1 t3
